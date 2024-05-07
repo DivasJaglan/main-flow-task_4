@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/main-flow-task_4/static/css/main.691ff445.css",
+    "main.js": "/main-flow-task_4/static/js/main.86d437fb.js",
+    "index.html": "/main-flow-task_4/index.html",
+    "main.691ff445.css.map": "/main-flow-task_4/static/css/main.691ff445.css.map",
+    "main.86d437fb.js.map": "/main-flow-task_4/static/js/main.86d437fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.691ff445.css",
+    "static/js/main.86d437fb.js"
+  ]
+}
